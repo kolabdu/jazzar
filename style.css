@@ -158,9 +158,11 @@ background: var(--color-dark);
 		margin-top: 75px;
 	}
 	.product{
-		width:250px;
+		width:200px;
 		font-size: 16px;
+		margin-bottom:20px;
 }
 	.c-t-a a{
 		margin-top: 150px;
+	}
 	}
