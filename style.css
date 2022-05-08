@@ -156,13 +156,13 @@ background: var(--color-dark);
 @media(max-width:400px){
 /***************LANDING PAGE*******************/
 .main-title{
-		font-size:28px;
+		font-size:24px;
 	margin-top: 65px;
 	}
 	.product{
 		width:300px;
-		margin-bottom: 200px;
+		margin-bottom: 150px;
 }
 	.c-t-a a{
-		margin-top: 270px;
+		margin-top: 200px;
 	}
