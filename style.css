@@ -154,7 +154,7 @@ background: var(--color-dark);
 @media(max-width:500px){
 /***************LANDING PAGE*******************/
 .main-title{
-		font-size:28px;
+		font-size:24px;
 		margin-top: 75px;
 	}
 	.product{
