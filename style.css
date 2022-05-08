@@ -151,7 +151,7 @@ background: var(--color-dark);
 	height: auto;
 }
 /***************MEDIA QUERY*******************/
-@media(max-width:600px){
+@media(max-width:500px){
 /***************LANDING PAGE*******************/
 .main-title{
 		font-size:28px;
@@ -163,20 +163,4 @@ background: var(--color-dark);
 }
 	.c-t-a a{
 		margin-top: 150px;
-	}
-/***************MEDIA QUERY*******************/
-@media(max-width:540px){
-/***************LANDING PAGE*******************/
-	.main-title{
-		font-size: 20px;
-		
-		margin-bottom: 20px;
-	}
-/*************PRODUCT*********************/
-	.product{
-		width:250px;
-	}
-	.c-t-a a{
-		margin-top: 50px;
-	}
 	}
