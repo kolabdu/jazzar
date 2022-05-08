@@ -156,6 +156,8 @@ background: var(--color-dark);
 .main-title{
 		font-size:24px;
 		margin-top: 75px;
+		width:70%;
+		text-align:center;
 	}
 	.product{
 		width:380px;
