@@ -159,6 +159,9 @@ background: var(--color-dark);
 		width:70%;
 		text-align:center;
 	}
+	.product-wrapper{
+		flex-direction:column;
+	}
 	.product{
 		width:380px;
 		font-size: 16px;
