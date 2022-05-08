@@ -153,7 +153,7 @@ background: var(--color-dark);
 	height: auto;
 }
 /***************MEDIA QUERY*******************/
-@media(max-width:500px){
+@media(max-width:400px){
 /***************LANDING PAGE*******************/
 .main-title{
 		font-size:28px;
@@ -161,6 +161,7 @@ background: var(--color-dark);
 	}
 	.product{
 		width:300px;
+		margin-bottom: 200px;
 }
 	.c-t-a a{
 		margin-top: 270px;
