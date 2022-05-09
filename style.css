@@ -113,7 +113,7 @@ background: var(--color-dark);
 		background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), 
 		url("./img/fish-3347.jpg")center/contain no-repeat fixed;
 		width: 100vw;
-		height:85vh;
+		height:83vh;
 	}
 	.header{
 		justify-content: center;
